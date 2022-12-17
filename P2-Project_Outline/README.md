@@ -22,9 +22,13 @@ General cat knowledge: Basic information on how to care for cats e.g. foods/plan
 Cat profiles: Users can add their cats and include their name, age, breed, photo(s), notes on food or medications, likes & dislikes, vet reminders, etc.
 ### Technologies
 C#/MVC
+
 HTML, CSS, JS
+
 SQL/EF core database
+
 Microsoft Identity
+
 Google Maps API
 ### What I'll Have to Learn
 I will need to figure out how to use API data, save user information to a profile, and create reminders/push notifications.
