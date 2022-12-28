@@ -7,4 +7,4 @@ This assignment will get you set up and rolling with a basic project. By the end
 ## Submission Instructions
 
 ### Project Repository
-[Link to your project repository]https://github.com/STL-WomenPlus-Mar22-LiftOff/emma-keyboard-cats
+[Link to your project repository](https://github.com/STL-WomenPlus-Mar22-LiftOff/emma-keyboard-cats)
