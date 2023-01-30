@@ -7,4 +7,4 @@ We want to you to create a set of presentation slides summarizing your project.
 ## Submission Instructions
 
 ### Presentation
-Upload a .PDF of your presentation here for review.
+.PDF of presentation for review: [LC Capstone Project Presentation.pdf](https://github.com/saranell/liftoff-assignments/files/10540069/LC.Capstone.Project.Presentation.pdf)
